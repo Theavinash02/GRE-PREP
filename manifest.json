@@ -1,0 +1,25 @@
+{
+  "name": "GRE Vocab — GregMat Edition",
+  "short_name": "GRE Vocab",
+  "description": "GRE Vocabulary Flashcards — All 32 GregMat Groups",
+  "start_url": "./gre_vocab.html",
+  "display": "standalone",
+  "background_color": "#0f0e0c",
+  "theme_color": "#0f0e0c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education"]
+}
